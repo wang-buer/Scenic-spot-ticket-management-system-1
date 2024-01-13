@@ -1,10 +1,10 @@
-# 景区门票管理系统
+# 景区门票管理系统1
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**景点1** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**景点**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,37 +35,29 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062138886.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208062138886.jpg)
 
 ### 4.2 用户模块
 
-![用户-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062139206.jpg)
+![用户-首页](https://www.codeshop.fun/Typora-Images/202208062139206.jpg)
 
-![用户-预定](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062139121.jpg)
+![用户-预定](https://www.codeshop.fun/Typora-Images/202208062139121.jpg)
 
-![用户-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062139272.jpeg)
+![用户-订单管理](https://www.codeshop.fun/Typora-Images/202208062139272.jpeg)
 
-![用户-留言板](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062139027.jpg)
+![用户-留言板](https://www.codeshop.fun/Typora-Images/202208062139027.jpg)
 
-![用户-修改个人信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062139026.jpg)
+![用户-修改个人信息](https://www.codeshop.fun/Typora-Images/202208062139026.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062139143.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208062139143.jpg)
 
-![管理员-订单列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062139580.jpg)
+![管理员-订单列表](https://www.codeshop.fun/Typora-Images/202208062139580.jpg)
 
-![管理员-景区列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062139297.jpg)
+![管理员-景区列表](https://www.codeshop.fun/Typora-Images/202208062139297.jpg)
 
-![管理员-添加景区们门票](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062139236.jpg)
+![管理员-添加景区们门票](https://www.codeshop.fun/Typora-Images/202208062139236.jpg)
 
-![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062139585.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**景点1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-留言管理](https://www.codeshop.fun/Typora-Images/202208062139585.jpg)
 
